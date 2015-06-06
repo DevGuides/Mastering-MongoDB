@@ -5,7 +5,7 @@ The best resources for mastering MongoDB
 (http://core0.staticworld.net/images/idge/imported/article/nww/2014/04/logo-mongodb-tagline-100275483-orig.png)
 
 ## Mantainers
-[![Suraj](https://avatars0.githubusercontent.com/u/5896164?v=3&s=32) Suraj](https://github.com/suraj-bk)  
+[![Suraj](https://avatars1.githubusercontent.com/u/8401804?v=3&s=32) Suraj](https://github.com/suraj-bk)  
 [![Deekshith](https://avatars1.githubusercontent.com/u/8401804?v=3&s=32) Deekshith](https://github.com/DeekshithShetty)
 
 #What's there in this Guide
