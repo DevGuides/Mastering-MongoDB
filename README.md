@@ -15,8 +15,8 @@ The best resources for mastering MongoDB
 #MongoDB Data Model
 * [MongoDB vs SQL Databases](#)
 * [MongoDB Data Model](#)
- *[what is Database](#)
- *[what is Collection](#)
- *[what is Document](#)
+ -[what is Database](#)
+ -[what is Collection](#)
+ -[what is Document](#)
 
 
