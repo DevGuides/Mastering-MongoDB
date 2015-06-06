@@ -2,7 +2,7 @@
 The best resources for mastering MongoDB
 
 ![Image of Yaktocat]
-(https://github.com/DevGuides/images/mongo-logo.png)
+(http://core0.staticworld.net/images/idge/imported/article/nww/2014/04/logo-mongodb-tagline-100275483-orig.png)
 
 #Tutorial Gides:
 Introduction to mongoDB
