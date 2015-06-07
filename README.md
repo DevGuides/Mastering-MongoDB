@@ -20,9 +20,9 @@ The best resources for mastering MongoDB
 * [Mongo + ExpressJS](#)
 
 #Introduction to MongoDB
-* [What is mongoDB ?](#)
+* What is mongoDB ?
   * [mongodb.org](http://www.mongodb.org/about/introduction/#introduction-to-mongodb)
-* [NoSQL Databases](#)   
+* NoSQL Databases  
   * [NOSQL Database Explained](https://www.mongodb.com/nosql-explained) 
   * [nosql-database.org](http://nosql-database.org/)   
   * [10 things you should know about NoSQL databases](http://www.techrepublic.com/blog/10-things/10-things-you-should-know-about-nosql-databases/)
