@@ -4,12 +4,13 @@ The best resources for mastering MongoDB
 ![Image of Yaktocat]
 (http://core0.staticworld.net/images/idge/imported/article/nww/2014/04/logo-mongodb-tagline-100275483-orig.png)
 
-## Mantainers
+## Maintainers
 [![Suraj](https://avatars1.githubusercontent.com/u/8401804?v=3&s=32) Suraj](https://github.com/suraj-bk)  
 [![Deekshith](https://avatars1.githubusercontent.com/u/8401804?v=3&s=32) Deekshith](https://github.com/DeekshithShetty)
 
 #What's there in this Guide
-* [Introduction to MongoDB](#)
+* Introduction to MongoDB
+  * mongodb.org(http://www.mongodb.org/about/introduction/#introduction-to-mongodb)
 * [MongoDB Data Model](#)
 * [MongoDB Database operations](#)
 * [MongoDB Deployment](#)
@@ -33,5 +34,8 @@ The best resources for mastering MongoDB
   * [Databases](#)
   * [Collections](#)
   * [Documents](#)
+
+#Mongo + Android
+
 
 
